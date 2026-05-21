@@ -139,12 +139,6 @@ http://localhost:5173
 
 ---
 
-# 📸 Project Screenshots
-
-Add your project screenshots here.
-
----
-
 # 🎯 Future Improvements
 
 - Cloud deployment
